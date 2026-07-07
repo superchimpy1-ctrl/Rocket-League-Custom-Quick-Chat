@@ -1,3 +1,5 @@
+![Version 2 Available](https://github.com/superchimpy1-ctrl/Rocket-League-Custom-Quick-Chat/releases/tag/version-2)
+
 # Rocket League Quick Chat Tool 🎮
 
 A simple desktop app that lets you bind three custom, fully-typed chat phrases to keyboard shortcuts in Rocket League — no more digging through the default Quick Chat wheel mid-match.
