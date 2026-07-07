@@ -1,34 +1,20 @@
-# Rocket-League-Custom-Quick-Chat
+# 🎮 Rocket League Quick Chat Tool
+
 A simple Python tool that automatically sends quick chat messages in Rocket League using hotkeys.
 
-## Installation Steps
+## Features
 
-### Method 1: Using pip (Recommended)
-```bash
-pip install pynput
-custom quick chat.py
+- **Easy Hotkey Setup**: Use V, R, and F keys to send custom phrases  
+- **Toggle Scanning**: Press F6 to enable | F7 to disable
+- **Customizable Phrases**: Set your own messages for each key
+- **GUI Interface**: Simple user-friendly interface
+- **Cross-platform**: Works on Windows, Mac, and Linux
 
-#Requirements
-Python 3.6+ (usually comes with tkinter by default)
-pynput library (install with pip install pynput)
-tkinter (usually included with Python installation)
-Usage Instructions
-Start the Program: Run rocket_league_chat.py
-Enter Phrases: Type your custom messages in the V, R, and F fields
-Enable Scanning: Click "Start Listening" then press F6 to enable scanning
-Send Messages: Press V, R, or F keys while in Rocket League to send chat messages
-#Troubleshooting
-If you encounter issues:
+## Installation
 
-Make sure Python 3.6+ is properly installed
-Verify pynput library is installed: pip install pynput
-If getting tkinter errors, try installing it separately:
-bash
-# Ubuntu/Debian:
-sudo apt-get install python3-tk
-
-# CentOS/RHEL/Fedora:
-sudo yum install tkinter
-Ensure Rocket League is running when using hotkeys
-#License
-MIT License - feel free to modify and distribute!
+### Method 1: Direct Run (No Installation Required)
+1. Download the `custom quick chat.py` file
+2. Make sure you have Python 3.6+ installed
+3. Install dependencies:
+   ```bash
+   pip install pynput
