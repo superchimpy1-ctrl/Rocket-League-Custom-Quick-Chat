@@ -7,4 +7,4 @@ A simple Python tool that automatically sends quick chat messages in Rocket Leag
 ### Method 1: Using pip (Recommended)
 ```bash
 pip install pynput
-python rocket_league_chat.py
+custom quick chat.py
