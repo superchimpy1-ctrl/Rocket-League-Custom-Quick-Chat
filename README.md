@@ -19,3 +19,5 @@ A simple Python tool that automatically sends quick chat messages in Rocket Leag
    ```bash
    pip install pynput
 4.
+```bash
+   python custom quick chat.py
